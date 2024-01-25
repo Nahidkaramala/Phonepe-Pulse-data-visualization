@@ -1,7 +1,7 @@
-# Phonepe-Pulse-data-visualization
-Phonepe pulse data extraction using python by Git cloning, Data Transformation using pandas and SQL, Data presentation using matplotlib, plotly express and presenting the overall data using Streamlit
-# Phone-pe-pulse-data extraction and data analysis using visulization tools
+# Phone-pe-pulse-data extraction and data analysis using visualization tools
 # problem statement
+Phonepe pulse data extraction using python by Git cloning, Data Transformation using pandas and SQL, Data presentation using matplotlib, plotly express and presenting the overall data using Streamlit
+
 The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner.
